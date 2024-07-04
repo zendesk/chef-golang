@@ -84,7 +84,7 @@ GEM
     nori (1.1.5)
     polyglot (0.3.3)
     rack (1.5.2)
-    rake (10.1.0)
+    rake (12.3.3)
     rbzip2 (0.2.0)
     retryable (1.3.3)
     ridley (1.5.3)
